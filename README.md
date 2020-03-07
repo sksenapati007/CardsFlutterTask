@@ -1,10 +1,13 @@
 # cards_stack
 
 ## task
+
+### recording
+ <video width="320" height="240" controls>
+  <source src="screenshots/screen_recording.mp4" type="video/mp4">
+</video> 
+
 ### screenshots
-<img src="screenshots/Screenshot_1.png" width="300" height="420">
-<img src="screenshots/Screenshot_2.png" width="300" height="420">
-<img src="screenshots/Screenshot_3.png" width="300" height="420">
 
 ![](screenshots/Screenshot_1.png)
 ![](screenshots/Screenshot_2.png)
